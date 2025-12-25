@@ -28,7 +28,7 @@ clear, structured, and reader-focused content for both technical and non-technic
 
 ## Contact
 - Email: sumagaddipati@gmail.com  
-- LinkedIn: (https://www.linkedin.com/in/sumalathagaddipati/)
-- GitHub: (https://github.com/sumagaddipati)
+- LinkedIn: https://www.linkedin.com/in/sumalathagaddipati/
+- GitHub: https://github.com/sumagaddipati
 
 Thank you for taking the time to review my work.
