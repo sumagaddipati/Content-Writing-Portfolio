@@ -1,4 +1,4 @@
-** How Artificial Intelligence Is Quietly Transforming Our Daily Lives **
+**How Artificial Intelligence Is Quietly Transforming Our Daily Lives**
 
 Artificial Intelligence (AI) is no longer limited to research labs or science fiction movies. Today, it operates quietly in the background of our everyday activities—often without us even realizing it. From recommending what we watch to helping doctors make faster diagnoses, AI has become an invisible assistant shaping modern life.
 
